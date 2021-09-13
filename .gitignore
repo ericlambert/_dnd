@@ -1,0 +1,14 @@
+*.pdf
+/rules
+/Roll20
+/Handouts
+/Maps
+*.ini
+*.jpg
+~*.*
+*.lnk
+*/DnD Recordings
+Thumbs.db
+*.psd
+*.webloc
+*.ai
