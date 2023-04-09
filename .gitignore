@@ -12,3 +12,5 @@ Thumbs.db
 *.psd
 *.webloc
 *.ai
+*.zip
+/5eTools*
