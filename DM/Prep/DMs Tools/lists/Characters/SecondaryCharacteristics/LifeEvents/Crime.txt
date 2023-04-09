@@ -1,0 +1,8 @@
+Murder
+Theft
+Burglary
+Assault
+Smuggling
+Kidnapping
+Extortion
+Counterfeiting
