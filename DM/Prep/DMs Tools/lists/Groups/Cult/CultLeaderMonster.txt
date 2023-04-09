@@ -1,0 +1,8 @@
+Cult Leader
+Beholder
+Lich
+Demon
+Drow
+Githyanki
+Fiend
+Orc
