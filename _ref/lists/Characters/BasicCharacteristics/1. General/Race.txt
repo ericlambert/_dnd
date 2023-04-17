@@ -1,0 +1,11 @@
+Half-orc
+Gnome
+Dragonborn
+Halfling
+Human
+Elf
+Dwarf
+Half-elf
+Tiefling
+Genasi
+Warforged
