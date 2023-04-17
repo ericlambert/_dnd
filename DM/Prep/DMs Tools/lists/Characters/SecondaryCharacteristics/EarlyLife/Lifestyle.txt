@@ -1,7 +1,0 @@
-Wretched (-40)
-Squalid (-20)
-Poor (-10)
-Modest (+00)
-Comfortable (+10)
-Wealthy (+20)
-Aristocratic (+40)

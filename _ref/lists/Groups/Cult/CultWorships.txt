@@ -1,9 +1,0 @@
-Demon-worshiping cult
-Devil-worshiping cult
-Elemental Air cult
-Elemental Earth cult
-Elemental Fire cult
-Elemental Water cult
-Worshipers of an evil deity
-Worshipers of a good deity
-Worshipers of a neutral deity
