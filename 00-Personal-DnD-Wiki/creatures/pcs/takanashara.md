@@ -71,3 +71,11 @@ Three magic beans for just one cow? What a deal! Will perform poorly at puzzles 
   - Canonically Kalashtar typically live in kalashtar communities but doesn't have to be true for Takanashara.
 - What is Takanashara's Kalashtar Quirk?
   - Roll on the table [Kalashtar Quirks](https://www.dndbeyond.com/sources/erftlw/character-creation#KalashtarQuirks) or make one up
+
+## Session Notes
+
+### S1E1
+
+- Butterfly / moth motif
+- bought a +1 spear
+- Spear of Spiritual Radiance caught his eye 1,000 gp

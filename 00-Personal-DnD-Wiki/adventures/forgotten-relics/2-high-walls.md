@@ -8,7 +8,11 @@
 >
 >As you make your way through High Walls, you can't help but feel the sense of isolation that comes with being cut off from the rest of Sharn. The towers that rise over the walls like imposing sentries only serve to reinforce this feeling. The people of High Walls keep to themselves, and many stand idly on street corners, eying you suspiciously. However, amidst the poverty and despair, there are signs of resilience and determination, with many inhabitants doing their best to make a life for themselves despite the circumstances.
 
-## Chase Complications
+## [Catching Coal](https://www.dndbeyond.com/sources/erftlw/building-eberron-adventures-forgotten-relics#CatchingCoal)
+
+[Encounter](https://www.dndbeyond.com/encounters/bc0361e3-b4e3-4902-9a25-d58af98f23b7)
+
+### Chase Complications
 
 Roll    | Complication                                                            | Skill Check                          | DC
 ------- | ----------------------------------------------------------------------- | ------------------------------------ | ---

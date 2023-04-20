@@ -34,7 +34,6 @@ Parental, Two older siblings (More successful, distant).
 
 Why spend gold here when you can buy the same thing for copper in the next town?
 
-
 - This link points to some info on [wood elves within the Ebberon setting](https://www.dndbeyond.com/sources/erftlw/character-creation#WoodElvesTheTairnadal)
   - They are called Tairnadal elves
   - They dedicate themselves to the arts of war
@@ -106,3 +105,13 @@ Lelie's power comes from wild magic, which means the innate magic comes from the
 - Is she trying to recapture some spark of the friendship she felt years ago? 
 - Does she remember a time before the Last War?
 - Did she fight in the war?
+
+## Session Notes
+
+### S1E1
+
+- bought Dog Treats
+- bought a goldfish
+  - names "059512", George
+- connected with Marta Ghallanda
+  - soap interested in buying Lelie's soap

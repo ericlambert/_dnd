@@ -39,7 +39,7 @@
 
 - What does your character physically look like?
 - What is their biggest regret or Why do they need 200 gold Pieces?
-  - Roll on the [Regrets Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#EveryoneHasRegrets) 
+  - Roll on the [Regrets Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#EveryoneHasRegrets)
 or [Debts Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#WhyDoYouNeed200GoldPieces) or make something up
 - What is their relationship to Germaine?
 

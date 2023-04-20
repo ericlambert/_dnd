@@ -33,3 +33,12 @@ I don’t care about the house as a whole, but I would do anything for my old me
 ### Flaws
 
 I’m fixated on following official protocols.
+
+## Session Notes
+
+### S1E1
+
+- Big hulking
+- non-military look
+- raw sheet metal shield
+- cast Mend on the rope used to strap his shield to himself
