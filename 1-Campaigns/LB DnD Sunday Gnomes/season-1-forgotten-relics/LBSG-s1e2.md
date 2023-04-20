@@ -7,11 +7,68 @@
 - Joe playing [RU57 "Rust"](https://www.dndbeyond.com/characters/95604296)
 - Moose playing [Josiah Johan](https://www.dndbeyond.com/characters/95668348)
 - Matt playing [Takanishara](https://www.dndbeyond.com/characters/95702103)
-- Emily playing [Lelie (pronounced: "Lilly")](https://www.dndbeyond.com/characters/95695007)
+- Emily playing [Lelie "Lilly"](https://www.dndbeyond.com/characters/95695007)
 - Kris playing [Sherwin Dreamshade](https://www.dndbeyond.com/characters/95704439)
+
+## Pre S1E2 Tasks
+
+### ~~Make things on dnd beyond~~
+
+- ~~Monk subclass for Josiah~~
+- Common Magic Items
+  - ~~Artificer-focused item~~
+  - ~~Wild-magic sorcerer focused item~~
+  - ~~Monk-focused item~~
+  - ~~Fighter-focused item~~
+  - ~~Cleric-focused item~~
+- Creatures
+  - ~~George (Goldfish)~~
+  - ~~Also George (Newfoundland Dog)~~
+- ~~Spear of Spiritual Radiance~~
+
+### ~~Schedule newxt session~~
+
+- ~~Planned on 1-5 but 1-4 felt like enough time~~
+- ~~Next session could be at Matt/Emily's house~~
+
+### Plan next session
+
+- plan to run the Forgotten Relics Adventure through Skycoach Ride at least
+- ~~write in Kris's character~~
+- ~~Make sure I still have the right map assets~~
+
+### ~~Write "Previously" summary~~
+
+### Pack up DM travel kit
+
+- Sourcebooks
+  - ~~PHB~~
+  - ~~DMG~~
+  - ~~MM~~
+  - ~~ERFTLW~~
+- Dice
+- BG Cards
+- Minis
+  - townsfolk
+  - warforged x3
+  - gnolls x5
+  - shifter
+  - kobold x4
+  - half-ogre
+  - guards x4
+  - bugbear
+  - goblin x4
+- Maps
+  - ~~Lighting Rail train~~
+  - ~~Dry-erase mat for saving-caden~~
+  - ~~Terminus~~
+- MS Surface
+  - sync _dnd repo
+  - battery charged
 
 ## Agenda
 
+- Recap last session
 - Run the Forgotten Relics Adventure through Skycoach Ride
   - ~~[Starting the Adventure](https://www.dndbeyond.com/sources/erftlw/)~~
     - ~~Arrival and intros~~
@@ -37,66 +94,42 @@
 - Ask the players to flesh out their character backstory's
   - What is their biggest regret -or- Why do they need 200 gold Pieces?
     - Roll on the [Regrets Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#EveryoneHasRegrets) or [Debts Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#WhyDoYouNeed200GoldPieces) or make something up
+- What can we do if an actual play session cancels last minute.
+  - Design an Oath of Greed Paladin
+  - Talk about fleshing out PC character backstory for players that are attending
+  - Build a short shared backstory for the group using Backstory Cards
 
-### Punt Session
+## Previously
 
-What can we do if an actual play session cancels last minute.
+> Yesterday evening, Germaine Vilroy of the Sharn Watch has asked you to meet with a warforged named Coal at a bar called Cog Carnival in the Tavik's Landing neighborhood of High Wall.
+>
+> After agreeing to the task, you enbarked on some shopping to prepare for your work. A on quiet street in the Dava Gate District you found The Storm's Forge where Drogan and his assistant Tilda
+>
+> Also on the same street you visited an animal shelter, where you were almost adopted a mastif but were disuaded by the adoption form's first question... **Are you planning on taking this animal with you on an adventure? __Yes / __No**. You left the shelter dogless but did acquire a goldfish. You named it "George".
+>
+> Germaine had reserved rooms for each of you at the world renowned Ghallanda Hall so you began making your way to Middle Dura where the inn is located. Down an alley you encountered a stray Newfoundland. You were able to befriend the dog, took (him/her)? with you and as you strapped George's fishbowl to their back, you named the dog "Also George".
+>
+> You stayed the night at Ghallanda Hall. In the morning Lelie made a promising connection for her soap products with Marda Ghallanda, the cheerful halfling who manages the day-to-day operations of the inn. Then after breakfast you set off to find Coal.
+>
+> Soon after arriving at Cog Carnival, a makeshift bar in High Walls run by a warforged named Smelt. Takanishara called out loudly "Does anybody know Coal?". A warforged form with matte black coverings, broke for the door and as they did a bolt of fire exploded against the wall inches from their head. The bar was thrown into chaos and the chase is on!
 
-- [ ] Design an Oath of Greed Paladin
-- [ ] Talk about fleshing out PC character backstory for players that are attending
-- [ ] Build a short shared backstory for the group using Backstory Cards
+## Rust encounters Sherwin
 
-## Materials
+> As you exit the Cog Carnival and begin your persuit of the warforged Coal someone else is entering the bar. Make a Dexterity check.
+>
+> *On a fail*
+> You slam into the human, taking 1d4 bludgening damage and falling prone.
+>
+> *On a success*
+> You narrowly avoid slamming into the human.
+>
+> As you recover you realize you know this person. It's Sherwin Dreamshade, you served together in the 47th Infantry Division during The Last War.
 
-- Sourcebooks
-  - PHB
-  - DMG
-  - MM
-  - ERFTLW
-- Dice
-- BG Cards
-- Minis
-  - townsfolk
-  - warforged x3
-  - gnolls x5
-  - shifter
-  - kobold x4
-  - half-ogre
-  - guards x4
-  - bugbear
-  - goblin x4
+Pause for roleplaying... award Inspiration to both Rust and Sherwin after.
 
-## Prep Tasks
+## S1E2 Mid-Session Notes
 
-### Make things on dnd beyond
-
-- ~~Monk subclass for Josiah~~
-- Common Magic Items
-  - ~~Artificer-focused item~~
-  - ~~Wild-magic sorcerer focused item~~
-  - ~~Monk-focused item~~
-  - ~~Fighter-focused item~~
-  - ~~Cleric-focused item~~
-- Creatures
-  - ~~George (Goldfish)~~
-  - ~~Also George (Newfoundland Dog)~~
-- ~~Spear of Spiritual Radiance~~
-
-### Schedule newxt session
-
-- ~~Planned on 1-5 but 1-4 felt like enough time~~
-- ~~Next session could be at Matt/Emily's house~~
-
-### Plan next session
-
-- plan to finish Forgotten Relics
-- write in Kris's character
-- Make sure I still have the right map assets
-- ask players to bring a mini for their PC if they can
-
-### Write and send session 1 summary
-
-## S1E2 Session Notes
+## Post S1E2 Tasks
 
 ## Links and Resources
 

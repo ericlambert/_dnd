@@ -7,3 +7,63 @@ Kris playing [Sherwin Dreamshade](https://www.dndbeyond.com/characters/95704439)
 ## Session Notes
 
 ### S1E2
+
+
+
+### Sherwin meets with Germaine Vilroy
+
+> Arriving at Sharn's airship docking station atop Lyrandar Tower, you take in the stunning view of the city sprawling out before you. For some of you this view may be totally new, for others a distant memory. Some of you may see it every day. However for all of you, when you pause to do it, taking in the city of Sharn is a stunning experience. Its towering spires, flying airships, and intricate network of bridges and walkways make for a breathtaking sight.
+>
+> -------------------
+> As you make your way through the docking area of Lyrandar Tower, you can't help but be awed by the sheer size of the structure.
+>
+> The walls and floors are made of polished stone, and the ceilings are adorned with intricate carvings and shimmering crystal chandeliers. You catch glimpses of House Lyrandar's impressive airships through the windows, floating like leviathans in the sky.
+>
+> -------------------
+> You find yourself immersed in a kaleidoscope of colors, smells, and sounds.
+>
+> As you walk, you see all manner of people from all walks of life hurrying about their business.  People move quickly and with purpose, their eyes fixed on their destination. You can't help but feel a sense of awe and respect for the power and influence of House Lyrandar.
+>
+> Some are dressed in the fine garb of House Lyrandar and wealthy merchants of House Cannith, while others wear the uniforms of the Sharn Watch or the City Council.
+>
+> -------------------
+> The noise of the city engulfs you - the calls of vendors selling their wares, the clattering of hooves as hippogriffs take flight, and the shouts of skycoach drivers competing for fares.
+>
+> Everywhere you turn, there is something new to see - whether it's a street performer juggling flaming torches or a group of adventurers returning from a successful mission.
+>
+> -------------------
+> Despite the chaos, a sense of energy and possibility permeates the air. The thrum of the magic powering the city and the determination of its people to make their mark on the world make for an exciting atmosphere. The City of Towers feels like a place where anything can happen, you can't help but feel a sense of adventure and anticipation.
+>
+> You feel the hum of magic that powers the city reverberating through the metal beneath your feet. The great airships of House Lyrandar float above, encircled by a halo of elemental energy. The towers of Sharn loom around you, casting long shadows that shift with the setting sun.
+>
+> -------------------
+> You make your way towards the quiet corner of the district where Sergeant Germaine Vilroy asked you to meet and your mind is brought back into focus on your reason for being here. You repeat the words of Germaine's short letter.
+>
+> "I'm calling on you for a job. I can't write the details, but it pays well and requires your skills. Meet me just outside the airship dock on top of Lyrandar Tower. Come armed."
+>
+> As you exit the airship dock the crowds disperse to their various lives in the City of Towers. but you remain waiting for Germaine. As you do four other adventurers join you.
+> As darkness descends on the city of Sharn, you see windows light up the towers around you from bottom to top. A cool wind whisks between you, drowning out the other noises of the city. A nearby lift rises, carrying a human in her mid-thirties with close cropped black hair and a glowing pipe in her mouth.
+>
+> -------------------
+> Germaine strides over to you with a confident air. Her bearing and sharp gaze suggest that she has lost none of her military training. She is tall and stands with a no-nonsense posture that demands respect. Her Brelish heritage is apparent in her sharp features, though years of military service have left their mark in the form of scars and calloused hands. Her dark hair is short and practical. You remember that Germaine prefers to wear it in a utilitarian style rather than fussing with it. Her eyes are sharp and observant, always scanning her surroundings for potential threats.
+>
+> Germaine's meticulous attention to detail is reflected in her Sharn Watch uniform which consists of a navy blue coat with brass buttons, black trousers, and a white shirt. The coat is tailored to fit well and has a badge of the Sharn Watch on the breast pocket. Germaine's uniform is well-worn but always neat and clean.
+>
+> Overall, Germaine's appearance exudes a sense of strength and no-nonsense practicality.
+>
+> -------------------
+> Her gruff demeanor is immediately apparent and she gets straight to business wasting not a moment with small talk. Germaine gives a wry smile as she nods to you all, saying in a no-nonsense tone, >
+>
+> *"Good to see you. I asked you to meet me here because I need your help."*
+>
+> -------------------
+> Without missing a beat, she launches into the details of the task at hand. She cuts right to the heart of the matter, outlining what needs to be done and what's at stake.
+>
+> Despite her urgent manner, there's an unmistakable air of competence and authority about her. It's clear that Germaine is used to being in charge and doesn't suffer fools gladly. But beneath the tough exterior, there's also a sense of deep loyalty and commitment to her fellow soldiers and to the people of Sharn.
+>
+> Germaine gives you the following information:
+>
+> - Germaine has an appointment to meet with a warforged named Coal, who claims to have knowledge of a crime being committed in Old Sharn. Germaine wants you to meet with Coal first and see if what she says adds up. Germaine is worried that, with her status as a Watch sergeant, her presence will call undue attention and endanger Coal.
+> - The meeting with Coal is to happen mid-day tomorrow at a bar called Cog Carnival in the High Walls neighborhood.
+> - Germaine gives you 25 gp now and promises another 50 gp if you bring in Coal.
+> - Germaine explains that she met with a group earlier that evening and set them on the same task. That group includes Rust, your fellow former-soldier in the 47th Infantry Division.
