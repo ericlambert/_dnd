@@ -6,11 +6,15 @@
    1. Place the lead quarry first,
    2. then place the others at the appropriate distance behind them.
       1. You can randomly set the distance from the lead pursuer to the closest quarry at the speed of the fastest creature + 5x(1d6) feet.
-2. **Note Initiative**.
-3. **Note Available Dashes**.
+2. Describe the surroundings
+   1. Make particular note of
+      1. what the quarry is running towards
+      2. features that might produce complications
+3. **Note Initiative order**.
+4. **Note everyone's Available Dashes**.
    1. You can use the Dash action a number of times equal to 3+ your Constitution modifier.
-4. **Note the lead quary's initial move distance**.
-5. **Track Rounds of Movement**
+5. **Note the lead quary's initial move distance**.
+6. **Track Rounds of Movement**
    1. On each participant’s turn...
       1. **Play out any Complication** that may apply
          Check whether they want to spend Inspiration to negate a Complication.
@@ -28,7 +32,7 @@
             A pursuer overtakes a quarry when they moves into its space. They can then use a bonus action to attempt to grapple the creature. Normal grapple rules apply. If successful, both pursuer and quarry are stopped. Rather than grapple, the pursuer may attempt to trip, push over or tackle the quarry. As an optional rule, an attack that fails by 5 or more results in the pursuer falling prone.
          - **Quarry Escapes**
             The quarry can attempt to escape if it is out of sight for all of the pursuers. They make a **Dexterity (Stealth) check vs highest passive Wisdom (Perception) score among the pursuers**.
-      5. Have the player roll for a **Complication** to apply to the next characters turn.
+      5. Have the player roll to determine a **Complication that will apply to the next characters turn**.
          The complication is not applied to their character, but rather to the next character in initiative order. They can spend an inspiration point to negate the complication rolled.
 
 ## Chase Rules
