@@ -12,3 +12,4 @@
 
 [Encounter](https://www.dndbeyond.com/encounters/bc0361e3-b4e3-4902-9a25-d58af98f23b7)
 
+[Chase Rules](chase-rules.md)

@@ -66,6 +66,12 @@
   - sync _dnd repo
   - battery charged
 
+### Prompt the players
+
+- Ask the players to flesh out their character backstory's
+  - What is their biggest regret -or- Why do they need 200 gold Pieces?
+    - Roll on the [Regrets Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#EveryoneHasRegrets) or [Debts Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#WhyDoYouNeed200GoldPieces) or make something up
+
 ## Agenda
 
 - Recap last session
@@ -91,9 +97,7 @@
   - [Terminus](https://www.dndbeyond.com/sources/erftlw/building-eberron-adventures-forgotten-relics#Terminus)
   - [Lightning Rail to Wroat](https://www.dndbeyond.com/sources/erftlw/building-eberron-adventures-forgotten-relics#LightningRailtoWroat)
   - [Conclusion](https://www.dndbeyond.com/sources/erftlw/building-eberron-adventures-forgotten-relics#Conclusion)
-- Ask the players to flesh out their character backstory's
-  - What is their biggest regret -or- Why do they need 200 gold Pieces?
-    - Roll on the [Regrets Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#EveryoneHasRegrets) or [Debts Table](https://www.dndbeyond.com/sources/erftlw/welcome-to-eberron#WhyDoYouNeed200GoldPieces) or make something up
+
 - What can we do if an actual play session cancels last minute.
   - Design an Oath of Greed Paladin
   - Talk about fleshing out PC character backstory for players that are attending
