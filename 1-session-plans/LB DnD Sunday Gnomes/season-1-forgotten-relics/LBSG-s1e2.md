@@ -84,7 +84,7 @@
 >
 > Also on the same street you visited an animal shelter, where you were almost adopted a mastif but were disuaded by the adoption form's first question... **Are you planning on taking this animal with you on an adventure? __Yes / __No**. You left the shelter dogless but did acquire a goldfish. You named it "George".
 >
-> Germaine had reserved rooms for each of you at the world renowned Ghallanda Hall so you began making your way to Middle Dura where the inn is located. Down an alley you encountered a stray Newfoundland. You were able to befriend the dog, took (him/her)? with you and as you strapped George's fishbowl to their back, you named the dog "Also George".
+> Germaine had reserved rooms for each of you at the world renowned Ghallanda Hall so you began making your way to Middle Dura where the inn is located. Down an alley you encountered a stray Newfoundland. You were able to befriend the dog, took (**him**/her)? with you and as you strapped George's fishbowl to their back, you named the dog "Also George".
 >
 > You stayed the night at Ghallanda Hall. In the morning Lelie made a promising connection for her soap products with Marda Ghallanda, the cheerful halfling who manages the day-to-day operations of the inn. Then after breakfast you set off to find Coal.
 >
@@ -130,6 +130,8 @@ If the characters mention Sergeant Vilroy as they meet Coal, she stays calm but 
 
 Once Coal is calmed, she hurriedly explains the kidnapping of a child from House Orien, the murder of her friend Razor, and Daask’s hunt for artifacts in Old Sharn. Just as Coal is finishing her exposition, a bolt of fire explodes inches from Coal’s head, causing bedlam in the Cog Carnival. Coal runs for her life, shouting that the party set her up. The chase is on!
 
+!Silver pait due is the cabbages guy
+
 #### [Mithral Tower](https://www.dndbeyond.com/sources/erftlw/building-eberron-adventures-forgotten-relics#MithralTower)
 
 [Mithral Tower](../season-1-forgotten-relics/forgotten-relics/3-mithral-tower.md)
@@ -158,6 +160,8 @@ Daask Gnolls
 ## S1E2 Mid-Session Notes
 
 ## Post S1E2 Tasks
+
+!Write a side-plot where the Silver street performer becomes the [Cabbage Merchant](https://avatar.fandom.com/wiki/Cabbage_merchant)
 
 ## Links and Resources
 
