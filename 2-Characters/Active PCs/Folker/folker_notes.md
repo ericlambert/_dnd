@@ -1,5 +1,27 @@
 # Notes for playing Folker
 
+## Session 1
+
+- Some months together
+- Trollskull Manor for a couple weeks
+- Harper quest (Zelron)
+  - Kill werewolves in the North
+  - 25gp / werewolf head
+- Krypthgarden Forest
+  - Blacksmith
+    - Clarice 7yo daughter
+    - Werewolf head trophy
+- Tser Pool
+- Werewolf named Kerol
+
+- Rankoo = Randy
+  - Greybacks
+  - North Sword Coast
+  - Mountain tribe
+- Moris
+  - FSU, Drink
+  - Robinhood
+
 ## Session 2
 
 - Folker has been weary of being tied to strongly to shawns character since he went nuts and killed Leif.
